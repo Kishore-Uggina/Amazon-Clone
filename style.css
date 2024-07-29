@@ -23,7 +23,7 @@
 }
 
 .logo{
-    background-image: url("/Amazon-images/Amazon-Logo.png");
+    background-image: url("./Amazon-images/Amazon-Logo.png");
     height: 30px;
     width: 100px;
     background-size:cover ; 
